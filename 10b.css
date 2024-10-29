@@ -1,0 +1,14 @@
+.container{
+    background-color: burlywood;
+    height: 100vh;
+    display: flex;
+    align-items: baseline;
+}
+
+.first{
+    font-size: 25px;
+
+}
+.second{
+    font-size: 50px;
+}
